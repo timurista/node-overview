@@ -1,3 +1,16 @@
-# First Chapter
+# Node Core Concepts
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+Small Ecosystem
+
+* small modules which contain their own dependencies
+* expose only minimal set of functionality
+* 
+
+
+Node Events
+
+* Node handles tasks through event listeners and callbacks
+* Node processes are interconnected and fork from each other to receive 
+
+
+
