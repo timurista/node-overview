@@ -1,3 +1,6 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [Node Overview](chapter1.md)
+* [Simplicity](simplicity.md)
+
